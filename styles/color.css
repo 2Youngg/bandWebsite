@@ -56,4 +56,11 @@ article img {
 #imagegallery a {
   background-color: transparent;
 }
-
+th{
+  color: #edc;
+  background-color: #445;
+}
+tr td{
+  color: #223;
+  background-color: #eb6;
+}
